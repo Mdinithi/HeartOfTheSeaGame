@@ -85,3 +85,12 @@ E:\Heart-of-the-Sea\Heart-of-the-Sea\HeartOfTheSea\obj\Debug\HeartOfTheSea.cspro
 E:\New folder (4)\Heart-of-the-Sea\HeartOfTheSea\bin\Debug\HeartOfTheSea.exe.config
 E:\New folder (4)\Heart-of-the-Sea\HeartOfTheSea\obj\Debug\HeartOfTheSea.exe
 E:\New folder (4)\Heart-of-the-Sea\HeartOfTheSea\obj\Debug\HeartOfTheSea.pdb
+E:\New folder (4)\Heart-of-the-Sea\HeartOfTheSea\bin\Debug\HeartOfTheSea.exe
+E:\New folder (4)\Heart-of-the-Sea\HeartOfTheSea\bin\Debug\HeartOfTheSea.pdb
+E:\New folder (4)\Heart-of-the-Sea\HeartOfTheSea\obj\Debug\HeartOfTheSea.csprojResolveAssemblyReference.cache
+E:\New folder (4)\Heart-of-the-Sea\HeartOfTheSea\obj\Debug\HeartOfTheSea.Level1MatchingGame.resources
+E:\New folder (4)\Heart-of-the-Sea\HeartOfTheSea\obj\Debug\HeartOfTheSea.LevelMenu.resources
+E:\New folder (4)\Heart-of-the-Sea\HeartOfTheSea\obj\Debug\HeartOfTheSea.LevelWin.resources
+E:\New folder (4)\Heart-of-the-Sea\HeartOfTheSea\obj\Debug\HeartOfTheSea.PauseForm.resources
+E:\New folder (4)\Heart-of-the-Sea\HeartOfTheSea\obj\Debug\HeartOfTheSea.Properties.Resources.resources
+E:\New folder (4)\Heart-of-the-Sea\HeartOfTheSea\obj\Debug\HeartOfTheSea.csproj.GenerateResource.Cache
