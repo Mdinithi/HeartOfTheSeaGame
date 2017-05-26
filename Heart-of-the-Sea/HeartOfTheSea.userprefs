@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{FCA277C4-1828-41A6-B178-0707181D3B24}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.HeartOfTheSea PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HeartOfTheSea\Level1MatchingGame.cs">
+    <Files>
+      <File FileName="HeartOfTheSea\Program.cs" Line="1" Column="1" />
+      <File FileName="HeartOfTheSea\Level1MatchingGame.cs" Line="13" Column="49" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

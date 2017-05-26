@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Heart of the sea</string>
+    <string name="title_game">Heart of the Sea</string>
+    <string name="level_menu_easy">Easy</string>
+</resources>

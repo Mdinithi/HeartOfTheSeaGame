@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "340286069141",
+    "firebase_url": "https://heart-of-the-sea.firebaseio.com",
+    "project_id": "heart-of-the-sea",
+    "storage_bucket": "heart-of-the-sea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340286069141:android:c58ac5739f40b98f",
+        "android_client_info": {
+          "package_name": "com.android.perera.malaka.heartofthesea_game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340286069141-71jcjs76cpfft4u4feauknq0slrhv231.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.perera.malaka.heartofthesea_game",
+            "certificate_hash": "ae047f74db65fdb7dc8817f07cce2e7afbdb5c9f"
+          }
+        },
+        {
+          "client_id": "340286069141-e10ko3hlmo955devh11stiaur4okhbig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0K7nO9Uqv2hNjMVHJ9Kkz0l6Nd_ngG_I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340286069141-e10ko3hlmo955devh11stiaur4okhbig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340286069141:android:083a3abb5ddb751b",
+        "android_client_info": {
+          "package_name": "com.android.perera.malaka.heartofthesea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340286069141-417d0utvl3n7gfnqdiki99fcin00rab2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.perera.malaka.heartofthesea",
+            "certificate_hash": "ae047f74db65fdb7dc8817f07cce2e7afbdb5c9f"
+          }
+        },
+        {
+          "client_id": "340286069141-e10ko3hlmo955devh11stiaur4okhbig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0K7nO9Uqv2hNjMVHJ9Kkz0l6Nd_ngG_I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340286069141-e10ko3hlmo955devh11stiaur4okhbig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

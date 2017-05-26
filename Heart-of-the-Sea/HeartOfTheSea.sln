@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeartOfTheSea", "HeartOfTheSea\HeartOfTheSea.csproj", "{FCA277C4-1828-41A6-B178-0707181D3B24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestHeartOfSea", "UnitTestHeartOfSea\UnitTestHeartOfSea.csproj", "{DC559C33-C450-4752-A0A0-019261BF40C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCA277C4-1828-41A6-B178-0707181D3B24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCA277C4-1828-41A6-B178-0707181D3B24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCA277C4-1828-41A6-B178-0707181D3B24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCA277C4-1828-41A6-B178-0707181D3B24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC559C33-C450-4752-A0A0-019261BF40C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC559C33-C450-4752-A0A0-019261BF40C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC559C33-C450-4752-A0A0-019261BF40C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC559C33-C450-4752-A0A0-019261BF40C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,27 @@
+D:\Heart-of-the-Sea\UnitTestHeartOfSea\obj\Debug\UnitTestHeartOfSea.csprojResolveAssemblyReference.cache
+D:\Heart-of-the-Sea\UnitTestHeartOfSea\bin\Debug\UnitTestHeartOfSea.dll
+D:\Heart-of-the-Sea\UnitTestHeartOfSea\bin\Debug\UnitTestHeartOfSea.pdb
+D:\Heart-of-the-Sea\UnitTestHeartOfSea\bin\Debug\HeartOfTheSea.exe
+D:\Heart-of-the-Sea\UnitTestHeartOfSea\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Heart-of-the-Sea\UnitTestHeartOfSea\bin\Debug\HeartOfTheSea.pdb
+D:\Heart-of-the-Sea\UnitTestHeartOfSea\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Heart-of-the-Sea\UnitTestHeartOfSea\obj\Debug\UnitTestHeartOfSea.dll
+D:\Heart-of-the-Sea\UnitTestHeartOfSea\obj\Debug\UnitTestHeartOfSea.pdb
+E:\New folder (4)\Heart-of-the-Sea\Heart-of-the-Sea\UnitTestHeartOfSea\bin\Debug\UnitTestHeartOfSea.dll
+E:\New folder (4)\Heart-of-the-Sea\Heart-of-the-Sea\UnitTestHeartOfSea\bin\Debug\UnitTestHeartOfSea.pdb
+E:\New folder (4)\Heart-of-the-Sea\Heart-of-the-Sea\UnitTestHeartOfSea\bin\Debug\HeartOfTheSea.exe
+E:\New folder (4)\Heart-of-the-Sea\Heart-of-the-Sea\UnitTestHeartOfSea\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\New folder (4)\Heart-of-the-Sea\Heart-of-the-Sea\UnitTestHeartOfSea\bin\Debug\HeartOfTheSea.pdb
+E:\New folder (4)\Heart-of-the-Sea\Heart-of-the-Sea\UnitTestHeartOfSea\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+E:\New folder (4)\Heart-of-the-Sea\Heart-of-the-Sea\UnitTestHeartOfSea\obj\Debug\UnitTestHeartOfSea.csprojResolveAssemblyReference.cache
+E:\New folder (4)\Heart-of-the-Sea\Heart-of-the-Sea\UnitTestHeartOfSea\obj\Debug\UnitTestHeartOfSea.dll
+E:\New folder (4)\Heart-of-the-Sea\Heart-of-the-Sea\UnitTestHeartOfSea\obj\Debug\UnitTestHeartOfSea.pdb
+E:\Heart-of-the-Sea\Heart-of-the-Sea\UnitTestHeartOfSea\bin\Debug\UnitTestHeartOfSea.dll
+E:\Heart-of-the-Sea\Heart-of-the-Sea\UnitTestHeartOfSea\bin\Debug\UnitTestHeartOfSea.pdb
+E:\Heart-of-the-Sea\Heart-of-the-Sea\UnitTestHeartOfSea\bin\Debug\HeartOfTheSea.exe
+E:\Heart-of-the-Sea\Heart-of-the-Sea\UnitTestHeartOfSea\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Heart-of-the-Sea\Heart-of-the-Sea\UnitTestHeartOfSea\bin\Debug\HeartOfTheSea.pdb
+E:\Heart-of-the-Sea\Heart-of-the-Sea\UnitTestHeartOfSea\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+E:\Heart-of-the-Sea\Heart-of-the-Sea\UnitTestHeartOfSea\obj\Debug\UnitTestHeartOfSea.csprojResolveAssemblyReference.cache
+E:\Heart-of-the-Sea\Heart-of-the-Sea\UnitTestHeartOfSea\obj\Debug\UnitTestHeartOfSea.dll
+E:\Heart-of-the-Sea\Heart-of-the-Sea\UnitTestHeartOfSea\obj\Debug\UnitTestHeartOfSea.pdb
