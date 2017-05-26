@@ -382,6 +382,7 @@ namespace HeartOfTheSea
         public void Test()
         {
             //this is test
+            MessageBox.Show("Test");
         }
     }
 }

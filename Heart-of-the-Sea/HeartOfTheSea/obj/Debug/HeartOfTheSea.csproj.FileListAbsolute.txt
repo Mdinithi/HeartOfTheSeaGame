@@ -82,3 +82,6 @@ E:\Heart-of-the-Sea\Heart-of-the-Sea\HeartOfTheSea\obj\Debug\HeartOfTheSea.Level
 E:\Heart-of-the-Sea\Heart-of-the-Sea\HeartOfTheSea\obj\Debug\HeartOfTheSea.PauseForm.resources
 E:\Heart-of-the-Sea\Heart-of-the-Sea\HeartOfTheSea\obj\Debug\HeartOfTheSea.Properties.Resources.resources
 E:\Heart-of-the-Sea\Heart-of-the-Sea\HeartOfTheSea\obj\Debug\HeartOfTheSea.csproj.GenerateResource.Cache
+E:\New folder (4)\Heart-of-the-Sea\HeartOfTheSea\bin\Debug\HeartOfTheSea.exe.config
+E:\New folder (4)\Heart-of-the-Sea\HeartOfTheSea\obj\Debug\HeartOfTheSea.exe
+E:\New folder (4)\Heart-of-the-Sea\HeartOfTheSea\obj\Debug\HeartOfTheSea.pdb
