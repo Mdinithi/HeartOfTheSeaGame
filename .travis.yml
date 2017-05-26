@@ -1,6 +1,6 @@
-language: php
-php:
-  - 5.5
-  - 5.4
-  - hhvm
-script: phpunit Test.php
+language: csharp
+solution: HeartOfTheSea.sln
+script:    # the following commands are just examples, use whatever your build process requires
+  - ./build.sh
+  - ./test.sh
+  - grep "Test Results" build.log
